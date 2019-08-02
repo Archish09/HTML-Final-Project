@@ -1,0 +1,130 @@
+#topbar{
+    padding-top:30px;
+    padding-bottom:30px;
+    text-align: center;
+    background-image: url(../images/hosp.jpg);
+    background-size: 100% 180px;
+    background-repeat: no-repeat;
+    background-position: right center;    
+}
+a.heading:hover{
+    text-decoration: none;
+    color:brown;
+}
+
+.heading{
+    color:white;
+    font-size:20px;
+    padding:20px;
+    
+}
+
+table{
+    width:1000px;
+    margin-bottom:30px;
+}
+
+.images{
+    width:350px;
+    height:250px;
+}
+
+th{
+    padding-bottom:20px;
+    background-color: white;
+    font-size:20px;
+}
+
+.content{
+    padding-left: 100px;
+    padding-right: 100px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+#footer{
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-top:35px;
+    background-color: beige;
+    display:flex;
+    align-items:center;
+    justify-content:center;   
+}
+
+.icons{
+   width:30px;
+   height:30px;
+   padding-left:20px;
+}
+
+.contact-heading{
+    padding-top:20px;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    padding-bottom: 20px;
+}
+
+#form{
+    background-color: white;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid grey;
+    border-bottom: none;
+    box-shadow: -5px -5px 5px #888;
+}
+
+#inputs{
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:40px;
+    padding-bottom:20px;
+}
+
+.form-area{
+width:100%;
+border:none;
+border-bottom:1px solid grey;
+padding-bottom:10px;
+padding-top:10px;
+margin-bottom:20px;
+}
+
+#submitbutton{
+    background-color:white;
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align:center;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    border: 1px solid grey;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+}
+
+.button{
+    background-color: navy;
+    color:white;
+    width:80px;
+    height:40px;
+}
+.about{
+    padding-left:200px;
+    padding-right: 200px;
+    line-height: 1.8;
+    text-align: justify;
+}
+#about-footer{
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-top:100px;
+    background-color: beige;
+    display:flex;
+    align-items:center;
+    justify-content:center;  
+}
+
